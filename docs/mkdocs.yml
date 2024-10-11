@@ -8,3 +8,6 @@ nav:
   - Главная: index.md
   - Расписание болезней: disease-list.md
   - Кифоз: kifoz.md
+
+markdown_extensions:
+  - def_list

@@ -1,0 +1,30 @@
+site_name: 'Army'
+theme:
+  name: 'material'
+  features:
+    - navigation.tabs
+    - navigation.top
+nav:
+  - Главная: index.md
+  - Legal Support: legal-support.md
+  - Расписание болезней: disease-list.md
+  - Кифоз: kifoz.md
+  - Ожирение: ozhirenie.md
+  - Дерматит: dermatit.md
+  - Кисты: kisty.md
+  - Проблемы сердца: problemy-serdca.md
+  - Варикоцеле: varikocele.md
+  - Тахикардия: tahikardia.md
+  - Плоскостопие: ploskostopie.md
+  - Сколиоз: skolioz.md
+  - Грыжа: gryzha.md
+  - ПМК сердца: prolaps-klapana.md
+  - Давление: davlenie.md
+  - Астма: astma.md
+  - Тату: tatu.md
+  - Зоб щетовидки: zob.md
+  - Гастрит: astrit.md
+  - Нарушение зрения: zrenie.md
+  - Порок сердца: porok-serdca.md
+  - Блокада сердца: blokada-serdca.md
+  - Аритмия: aritmia.md

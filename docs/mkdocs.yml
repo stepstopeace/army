@@ -10,4 +10,6 @@ nav:
   - Кифоз: kifoz.md
 
 markdown_extensions:
-  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

@@ -1,0 +1,10 @@
+site_name: 'Army'
+theme:
+  name: 'material'
+  features:
+    - navigation.tabs
+    - navigation.top
+nav:
+  - Главная: index.md
+  - Расписание болезней: disease-list.md
+  - Кифоз: kifoz.md

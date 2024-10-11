@@ -8,3 +8,8 @@ nav:
   - Главная: index.md
   - Расписание болезней: disease-list.md
   - Кифоз: kifoz.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
